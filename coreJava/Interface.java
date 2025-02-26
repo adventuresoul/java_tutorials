@@ -1,4 +1,4 @@
-package Tutorials;
+package coreJava;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

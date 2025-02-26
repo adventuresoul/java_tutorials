@@ -1,4 +1,4 @@
-package Tutorials;
+package coreJava;
 
 // Key Rules for Method Overriding
 // Same Method Signature → The method in the child class must have the same name and parameter list.

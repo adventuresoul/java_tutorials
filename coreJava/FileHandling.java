@@ -1,11 +1,10 @@
-package Tutorials;
+package coreJava;
 
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.Serializable;
 
 /*
 File handling in Java is used to read, write, update, and delete files from the file system. 

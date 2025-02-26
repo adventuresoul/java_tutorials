@@ -1,4 +1,4 @@
-package Tutorials;
+package coreJava;
 
 // ✅ Saves memory by not storing unnecessary references
 // ✅ Useful for one-time use objects

@@ -1,4 +1,4 @@
-package Tutorials;
+package coreJava;
 /*
  Exception Handling in Java
 Exception handling is a powerful mechanism that handles runtime errors, 

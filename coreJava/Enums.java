@@ -1,4 +1,4 @@
-package Tutorials;
+package coreJava;
 
 /*
  * Summary

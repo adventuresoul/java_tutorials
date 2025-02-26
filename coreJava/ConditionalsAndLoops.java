@@ -1,4 +1,4 @@
-package Tutorials;
+package coreJava;
 
 public class ConditionalsAndLoops {
     // never use switch in production code

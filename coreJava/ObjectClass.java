@@ -1,4 +1,4 @@
-package Tutorials;
+package coreJava;
 
 // The Object class is the root class of all classes in Java. 
 //It provides several fundamental methods that every Java object inherits, including

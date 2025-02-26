@@ -1,4 +1,4 @@
-package Tutorials;
+package coreJava;
 
 //An abstract class in Java is a class that cannot be instantiated and is meant to be extended by other classes.
 //It serves as a blueprint for subclasses, defining common behavior while allowing specific implementations in derived classes.

@@ -1,4 +1,4 @@
-package Tutorials;
+package coreJava;
 
 class Utility {
     // Static variable: shared among all instances (or without any instance)

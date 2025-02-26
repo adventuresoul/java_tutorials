@@ -1,4 +1,4 @@
-package Tutorials;
+package coreJava;
 
 // public: Accessible everywhere.
 // protected: Accessible in the same package and subclasses in different packages.

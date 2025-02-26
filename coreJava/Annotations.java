@@ -1,6 +1,4 @@
-package Tutorials;
-
-import java.lang.reflect.Method;
+package coreJava;
 
 /*
 Annotations are special markers or tags added to Java source code elements (classes, methods, fields, parameters, etc.). 

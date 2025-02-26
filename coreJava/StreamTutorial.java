@@ -1,4 +1,4 @@
-package Tutorials;
+package coreJava;
 
 import java.util.ArrayList;
 import java.util.List;

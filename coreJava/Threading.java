@@ -1,4 +1,4 @@
-package Tutorials;
+package coreJava;
 
 // method for creating Threads -> extend Thread class for your class, now you have access to all functionalities of threads
 class A extends Thread {

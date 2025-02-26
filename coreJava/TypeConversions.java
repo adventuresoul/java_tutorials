@@ -1,4 +1,4 @@
-package Tutorials;
+package coreJava;
 
 public class TypeConversions {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Tutorials;
+package coreJava;
 
 // multiple inheritance is not possible in java
 // all methods are virtual by default

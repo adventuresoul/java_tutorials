@@ -1,4 +1,4 @@
-package Tutorials;
+package coreJava;
 
 // Polymorphism is one of the fundamental concepts of Object-Oriented Programming (OOP) that allows objects of different classes to be treated as objects of a common superclass.
 // In Java, polymorphism is mainly of two types:

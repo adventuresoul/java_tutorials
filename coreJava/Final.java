@@ -1,4 +1,4 @@
-package Tutorials;
+package coreJava;
 
 //A class declared as final cannot be subclassed.
 final class Base {

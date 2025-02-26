@@ -1,4 +1,4 @@
-package Tutorials;
+package coreJava;
 
 class Calculator {
     public int add(int a, int b) {

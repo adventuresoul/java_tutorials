@@ -1,4 +1,4 @@
-package Tutorials;
+package coreJava;
 
 // package com.adventuresoul.Tutorials;
 

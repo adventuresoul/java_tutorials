@@ -1,4 +1,4 @@
-package Tutorials;
+package coreJava;
 
 /*
  * An interface in Java is a blueprint of a class that contains abstract methods (methods without a body) and default/static methods. 
