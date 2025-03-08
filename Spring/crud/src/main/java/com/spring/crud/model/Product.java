@@ -1,11 +1,5 @@
 package com.spring.crud.model;
-
-import org.springframework.context.annotation.Scope;
-import org.springframework.stereotype.Component;
-
-
-@Component
-@Scope("prototype")
+// @Scope("prototype")
 public class Product {
     private Long id;
     private String name;
