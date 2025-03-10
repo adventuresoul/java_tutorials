@@ -13,9 +13,10 @@ import com.spring.crud.model.Product;
 Specialized for persistence layer (DAO/repository classes).
 Automatically translates database exceptions (e.g., SQLException) into Spring’s DataAccessException, which is an unchecked exception.
 Helps with AOP-based transactions and database error handling.
- */
+*/
+
 @Repository
-public class ProductRepositoryImpl implements ProductRepository{
+public class ProductRepositoryImpl implements ProductRepository {
     private JdbcTemplate template;
 
     public JdbcTemplate getTemplate() {
